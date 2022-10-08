@@ -32,7 +32,7 @@ namespace lab_03_list
         {
             public static void Sum(List<T> List1, List<T> List2)
             {
-                Console.WriteLine($"Сумма элементов первого и второго списка равна {List1.Lenght + List2.Lenght}");
+                Console.WriteLine($"The sum of the elements of the first and second list is equal to {List1.Lenght + List2.Lenght}");
             }
             public static void DifferenceMaxMin(List<T> List1, List<T> List2)
             {
@@ -41,11 +41,11 @@ namespace lab_03_list
                 {
                     res = -res;
                 }
-                Console.WriteLine($"Разница в размере первого и второго списка равна {res}");
+                Console.WriteLine($"The difference in the size of the first and second list is equal to {res}");
             }
             public static void Quanity(List<T> MyList)
             {
-                Console.WriteLine($"Количество элементов в списке равно {MyList.Lenght}");
+                Console.WriteLine($"The number of items in the list is equal to {MyList.Lenght}");
             }
         }
     }
