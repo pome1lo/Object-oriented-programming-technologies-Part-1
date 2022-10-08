@@ -13,16 +13,16 @@ namespace lab_03_list
             try
             {
                 var Test = new List<string>();
-                Test.AddNode("я первый");
-                Test.AddNode("я второй");
-                Test.AddNode("я третий");
-                Test.AddNode("Удаляй меня полностью");
-                Test.AddNode("я четвертый");
-                Test.AddNode("Я пятый");
+                Test.AddNode("1 element");
+                Test.AddNode("2 element");
+                Test.AddNode("3 element");
+                Test.AddNode("Delete me");
+                Test.AddNode("4 element");
+                Test.AddNode("5 element");
 
                 Test.PrintList();
 
-                Test.RemoveNode("Удаляй меня полностью");
+                Test.RemoveNode("Delete me");
 
                 Test.PrintList();
 
@@ -30,7 +30,6 @@ namespace lab_03_list
 
                 var ss = new Production();
 
-                Console.WriteLine("\nПользовательский класс, который будет использоваться в качестве параметра обобщения.");
                 List<int>.Foo<Production>(ss);
             }
             catch (Exception e)
