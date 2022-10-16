@@ -1,5 +1,5 @@
 <h1 align="center" color="red"> C# Console Applications 🧾</h1>
-These are several laboratory works on object-oriented programming in C# on the following topics: "Designing types. Classes", "Overload extension methods", "Inheritance polymorphism abstract interfaces", "Enumeration structures containers controllers" and "Facilities".
+These are several laboratory works on object-oriented programming in C# on the following topics: "Designing types. Classes", "Overload extension methods", "Inheritance polymorphism abstract interfaces", "Enumeration structures containers controllers" and "Facilities", etc.
 <br><br>
 <ul>
   <li>Designing types. Classes <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/2_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab02">Solution</a>;</li>
