@@ -8,4 +8,8 @@ These are several laboratory works on object-oriented programming in C# on the f
   <li>Enumeration structures containers controllers <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/5_%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D1%8B_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab05">Solution</a>;</li>
   <li>Generic <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/7_%D0%9E%D0%B1%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab07">Solution</a>;</li>
   <li>Lambda expression event delegates <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/8_%D0%94%D0%B5%D0%BB%D0%B5%D0%B3%D0%B0%D1%82%D1%8B_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F_%D0%BB%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab08">Solution</a></li>
+  <li>Collections: <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/9_%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab09">Solution</a></li>
+  
 </ul>
+
+<!-- <li>: <a href="">Tasks</a> | <a href="">Solution</a></li> -->
