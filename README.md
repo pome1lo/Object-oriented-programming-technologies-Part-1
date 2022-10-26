@@ -10,6 +10,7 @@ These are several laboratory works on object-oriented programming in C# on the f
   <li>Lambda expression event delegates <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/8_%D0%94%D0%B5%D0%BB%D0%B5%D0%B3%D0%B0%D1%82%D1%8B_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F_%D0%BB%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab08">Solution</a></li>
   <li>Collections: <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/9_%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab09">Solution</a></li>
   <li>LINQ: <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/10_LINQ.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab10">Solution</a></li>
+  <li>Reflection: <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/blob/master/11_%D0%A0%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%8F.pdf">Tasks</a> | <a href="https://github.com/zephyrXXX/C-Sharp_Console_Applications-part-1/tree/master/lab11">Solution</a></li>  
 </ul>
-
 <!-- <li>: <a href="">Tasks</a> | <a href="">Solution</a></li> -->
+
