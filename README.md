@@ -1,4 +1,4 @@
-<h1 align="center" color="red"> C# Console Applications 🧾 ЛЕША ЛОХ</h1>
+<h1 align="center" color="red"> C# Console Applications 🧾</h1>
 These are several laboratory works on object-oriented programming in C# on the following topics: "Designing types. Classes", "Overload extension methods", "Inheritance polymorphism abstract interfaces", "Enumeration structures containers controllers" and "Facilities", etc.
 <br><br> 
 <ul>
